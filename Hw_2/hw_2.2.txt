@@ -1,0 +1,1 @@
+I merged the classes present in the two diagrams and added in the final diagram the classes which are not present in the two initial diagrams 
